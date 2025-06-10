@@ -55,9 +55,20 @@ python registration_system.py
 Run the project in web mode by executing:
 python registration_system.py web
  and then open your browser and navigate the local host: http://127.0.0.1:5000
+## contributing
+Contributions, issues, and feature requests are welcome!
+Fork the repository.
 
+Create a new branch (git checkout -b feature/YourFeature).
 
-## License:
+Commit your changes (git commit -m 'Add feature').
+
+Push to your branch (git push origin feature/YourFeature).
+
+Open a Pull Request.
+
+Please ensure your code follows the project’s overall style and add descriptive commit messages.
+## License
 
 None
 
