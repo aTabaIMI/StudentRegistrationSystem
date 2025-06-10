@@ -46,7 +46,7 @@ This project provides a toy registration system to help computer science student
    ```bash
    git clone https://github.com/yourusername/UniversityRegistrationSystem.git
    cd UniversityRegistrationSystem
-##usage
+## Usage
 Console mode:
 
 Run the project in console mode by executing:
@@ -57,11 +57,11 @@ python registration_system.py web
  and then open your browser and navigate the local host: http://127.0.0.1:5000
 
 
-##License:
+## License:
 
 None
 
-##Acknowledgements
+## Acknowledgements
 Students of Department of Computer Science, Faculty of Mathematical Sciences at University of Guilan
 
 
